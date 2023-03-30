@@ -4,5 +4,7 @@ public class Main {
         audi.color = "black";
         audi.model = "a3";
         audi.power = "5000cc";
+        engine x = new engine();
+        x.size = "543";
     }
 }
